@@ -1,0 +1,24 @@
+.custom-nav{
+  background: none;
+  border: 0px;
+}
+
+.custom-jumbotron{
+  background: none;
+}
+
+.custom-jumbotron p {
+  margin-left: 30px;
+}
+.middle{
+  margin-left: 55px;
+}
+.archive{
+  float: right;
+  margin-right: -15%;
+  text-align: center;
+}
+
+.archive ul {
+  list-style-type: none;
+}
