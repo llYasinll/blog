@@ -1,0 +1,23 @@
+html body{
+  height: 100%;
+}
+.navbar-custom{
+  background: none;
+  border: 0px;
+}
+
+#archive{
+  list-style-type: none;
+}
+
+.sidebar-module {
+  padding: 15px;
+  margin: 0 -15px 15px;
+}
+
+.blog-footer {
+  color: #999;
+  background: none;
+  text-align: center;
+  margin-top: 40px;
+}
